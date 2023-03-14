@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'bahri-website-api'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FCD59150D6904E65956F6155259DE5D1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B3AAA281E01B489ABCABA502B7C7A42F }}
           package: .
